@@ -1,0 +1,25 @@
+﻿  Array.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(16,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(17,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(18,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(19,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(34,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(37,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(38,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(55,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(9,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(18,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(31,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(43,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(66,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(74,19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(81,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(122,14): warning C4244: 'argument': conversion from 'const double' to 'const size_t', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(126,39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(127,1): warning C5043: 'Array::pop_back': exception specification does not match previous declaration
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.h(46): message : see declaration of 'Array::pop_back'
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(147,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Array.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+  Lab6.1(OOP).vcxproj -> D:\Рабочий стол\дз\2семестр\ООП\Лаб 6.1-6.8\Lab6.1(OOP)\Debug\Lab6.1(OOP).exe
